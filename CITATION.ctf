@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "Se você utilizou esse repositório, por favor faça uma citação"
+authors:
+- family-names: "de Sousa Rocha de Araujo"
+  given-names: "Ilan"
+  orcid: "https://orcid.org/0000-0002-3304-8073"
+title: "Trabalho Final - COCADA 2023.1"
+version: 1.0.0
+date-released: 2023-07-23
+url: "https://github.com/ilanaraujo/trab_final_cocada"
